@@ -1,0 +1,13 @@
+.registration{
+    padding-left: 20%
+
+}
+label{
+    text-align: left;
+}
+button{
+    margin-top: 3%;
+    width: 200px;
+    height:50px;
+    cursor: pointer;
+}
